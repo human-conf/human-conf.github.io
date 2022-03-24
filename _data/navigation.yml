@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Iterations"
+    url: /iterations
+  - title: "Contact"
+    url: /contact
