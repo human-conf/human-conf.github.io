@@ -34,20 +34,20 @@ function my(date) {
         </tr>
     </thead>
     <tbody>
+        <tr class="highlighted">
+            <script>
+                document.write(my("2023-03-21 15:00"));
+            </script>
+            <td>
+                <a href="https://human-conf.github.io/human23/">2st HUMAN workshop,</a> co-located with SANER 2023
+            </td>
+        </tr>
         <tr>
             <script>
                 document.write(my("2022-03-18 15:00"));
             </script>
             <td>
                 <a href="https://human-conf.github.io/human22/">1st HUMAN workshop,</a> co-located with SANER 2022
-            </td>
-        </tr>
-        <tr class="highlighted">
-            <td>TBA</td>
-            <td>2023</td>
-            <td>2023</td>
-            <td>
-                <strong>2st HUMAN workshop</strong>
             </td>
         </tr>
     </tbody>
