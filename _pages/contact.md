@@ -7,19 +7,19 @@ excerpt: "Do you have any question?"
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v12.0" nonce="6O4FDXGM"></script>
 
-If you have any question feel free to reach us on the following e-mail address.
+If you have any questions feel free to reach us at the following e-mail address.
 Suggestions are also welcomed.
 
 [Send an e-mail to human-conf@googlegroups.com](mailto:human-conf@googlegroups.com?subject=[HUMAN]%20your%20subject){: .btn .btn--warning}
 
 ## Who will see my mail?
 
-Your messages will be relayed to every organizer of the current iteration, but it will not be visible to anyone else. 
+Your messages will be relayed to every organizer of the current iteration, but they will not be visible to anyone else.
 
 ## Spread the word!
 
 <div class="three-column">
-<a href="https://twitter.com/intent/tweet?button_hashtag=human_workshop&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-show-count="false">Tweet #human_workshop2022</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=human_workshop&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-show-count="false">Tweet #human_workshop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="three-column">

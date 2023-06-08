@@ -35,11 +35,19 @@ function my(date) {
     </thead>
     <tbody>
         <tr class="highlighted">
+            <!-- <script>
+                document.write(my("2024-03-21 15:00"));
+            </script> -->
+            <td>
+                <a href="https://human-conf.github.io/human24/">2nd HUMAN workshop,</a> co-located with SANER 2024
+            </td>
+        </tr>
+        <tr>
             <script>
                 document.write(my("2023-03-21 15:00"));
             </script>
             <td>
-                <a href="https://human-conf.github.io/human23/">2st HUMAN workshop,</a> co-located with SANER 2023
+                <del><a href="https://human-conf.github.io/human23/">2nd HUMAN workshop,</a> co-located with SANER 2023</del><ins>Postponed</ins>
             </td>
         </tr>
         <tr>
